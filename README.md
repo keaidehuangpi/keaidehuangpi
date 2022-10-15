@@ -14,6 +14,7 @@
 - 📫 How to reach me **keaidehuangpi@163.com**
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://gitee.com/huiwow">Gitee</a>
 <p align="left">
 </p>
 
